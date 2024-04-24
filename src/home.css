@@ -1,0 +1,14 @@
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.home-heading {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.home-description {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
